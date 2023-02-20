@@ -1,7 +1,7 @@
 {
     "name": "Instagram as Progresive Web App",
     "short_name": "PWAgram",
-    "start_url": "index.html",
+    "start_url": "/index.html",
     "description": "A simple instagram clone, implementing a lot of PWA stuff.",
     "display": "standalone",
     "orientation": "portrait-primary",
@@ -9,7 +9,7 @@
     "theme_color": "#3F51B5",
     "dir": "ltr",
     "lang": "En-en",
-    "id": "http://127.0.0.1:8080/index.html",
+    "id": "/index.html",
     "icons": [
         {
             "src": "/src/images/icons/app-icon-48x48.png",
